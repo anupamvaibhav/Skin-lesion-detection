@@ -41,9 +41,9 @@ The following technologies were used for this project:
 Model contains 3 convolutional units with 32,64 and 64 feature extractions and one FC-128 layer and 1 softmax layer
 - Conclusion 2 from the analysis:
 Without regularization, with class imbalance, without image augmentation but with normalized batches, model performs poorly with under 25% of training and validation accuracy in 20 epochs.
-- Conclusion 3 from the analysis
+- Conclusion 3 from the analysis:
 With regularization, and little image augmentation but with class imbalance model performs gets better with around 50% of training and validation accuracy in 20 epochs.
-- Conclusion 4 from the analysis
+- Conclusion 4 from the analysis:
 After regulrization, image augmentation with resolving class imbalance (adding 500 image to each class after augmentation) model accuracy reaches 80-90%.
 
 
@@ -52,5 +52,5 @@ We would like to acknowledge the contributions of our team members and the work 
 
 
 ## Contact
-Created by [@Zebafroz], [@anupamvaibhav], [@mazahir3393] - feel free to contact me!
+Created by [@Zebafroz], [@anupamvaibhav], [@mazahir3393] - feel free to contact us!
 
